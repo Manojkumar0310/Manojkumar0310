@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Manojkumar0310?tab=repositories](https://github.com/Manojkumar0310?tab=repositories)
+- 👨‍💻 All of my projects are available at [Manojkumar0310](https://github.com/Manojkumar0310?tab=repositories)
 
 - 💬 Ask me about **Python,Flask**
 
 - 📫 How to reach me **manojganesan0310@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/gj2u03deqd](https://flowcv.com/resume/gj2u03deqd)
+- 📄 Know about my experiences [Resume](https://flowcv.com/resume/gj2u03deqd)
 
 - ⚡ Fun fact **I am Hard to predict :)**
 
@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/manojkumar0310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manojkumar0310" height="30" width="40" /></a>
 <a href="https://instagram.com/manoj_0310_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manoj_0310_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/manoj_03_kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manoj_03_kumar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manoj_03_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manoj_03_kumar" height="30" width="40" /></a>
 </p>
 
