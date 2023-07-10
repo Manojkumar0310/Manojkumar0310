@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojkumar0310&label=Profile%20views&color=0e75b6&style=flat" alt="manojkumar0310" /> </p>
 
-- 🔭 I’m currently working on **Leetcode problems**
+- 🔭 I’m currently working on **Problem solving using Data Structures**
 
 - 🌱 I’m currently learning **Flask**
 
